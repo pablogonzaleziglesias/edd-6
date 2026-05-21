@@ -1,2 +1,1 @@
-Primera Linea
-Segunda Linea
+Primra Linea
